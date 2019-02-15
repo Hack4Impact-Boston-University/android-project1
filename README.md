@@ -11,10 +11,11 @@ And the text: blue is displayed in the color red.
 
 The user will have 4 seconds to select the blue block and match the color with the text "blue". If they successfully do so, continue the game. If they fail even once, they lose! After the user wins their 7th game, they win!  **Tough game, I know.**
 
+*Playing on the Stroop Effect: https://faculty.washington.edu/chudler/words.html*
 ---
 
 ## Key Features of the App
-*Reference section 4 in the iOS 11 & Swift 4 Udemy Course for tips and guidance*
+*Reference section 5 of the Android Udemy course for info about timers and the Brain Trainer Game (similar logic)*
 ### 1. The Introduction Screen
       - displays a big neon button that says "Go!"
       - when clicked, the user will be brought to the Game Screen.
@@ -32,13 +33,12 @@ The user will have 4 seconds to select the blue block and match the color with t
           
 
 ### 3. The Loser Page
-*Reference section 13 for a to-do list code along in the console*
       
       - displays "You lose :(!"
       
-### 3. The Winner Page
+### 4. The Winner Page
       
-      - displays "You win!"
+      - displays "You win! :)"
       
 ---
       
