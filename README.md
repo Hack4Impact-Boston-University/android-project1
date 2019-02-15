@@ -11,7 +11,8 @@ And the text: blue is displayed in the color red.
 
 The user will have 4 seconds to select the blue block and match the color with the text "blue". If they successfully do so, continue the game. If they fail even once, they lose! After the user wins their 7th game, they win!  **Tough game, I know.**
 
-*Playing on the Stroop Effect: https://faculty.washington.edu/chudler/words.html*
+Play off of the Stroop Experiment: https://faculty.washington.edu/chudler/words.html
+
 ---
 
 ## Key Features of the App
